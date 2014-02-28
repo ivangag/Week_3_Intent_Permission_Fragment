@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FragmentDynamicLayout/FragmentDynamicLayout.iml" filepath="$PROJECT_DIR$/FragmentDynamicLayout/FragmentDynamicLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentDynamicLayoutWithActionBar/FragmentDynamicLayoutWithActionBar.iml" filepath="$PROJECT_DIR$/FragmentDynamicLayoutWithActionBar/FragmentDynamicLayoutWithActionBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentProgrammaticLayout/FragmentProgrammaticLayout.iml" filepath="$PROJECT_DIR$/FragmentProgrammaticLayout/FragmentProgrammaticLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentQuoteViewerWithActivity/FragmentQuoteViewerWithActivity.iml" filepath="$PROJECT_DIR$/FragmentQuoteViewerWithActivity/FragmentQuoteViewerWithActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentStaticConfigLayout/FragmentStaticConfigLayout.iml" filepath="$PROJECT_DIR$/FragmentStaticConfigLayout/FragmentStaticConfigLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentStaticLayout/FragmentStaticLayout.iml" filepath="$PROJECT_DIR$/FragmentStaticLayout/FragmentStaticLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloAndroidWithLogin/HelloAndroidWithLogin.iml" filepath="$PROJECT_DIR$/HelloAndroidWithLogin/HelloAndroidWithLogin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PermissionExampleBoom/PermissionExampleBoom.iml" filepath="$PROJECT_DIR$/PermissionExampleBoom/PermissionExampleBoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PermissionExampleBoomUser/PermissionExampleBoomUser.iml" filepath="$PROJECT_DIR$/PermissionExampleBoomUser/PermissionExampleBoomUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 3_Intent_Permission_Fragment.iml" filepath="$PROJECT_DIR$/Week 3_Intent_Permission_Fragment.iml" />
+    </modules>
+  </component>
+</project>
+
